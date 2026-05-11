@@ -1,13 +1,13 @@
 # Hi there! I'm Erick Garban 👋
 
-### Software Engineer | Kotlin Multiplatform & AI Automation Expert
+### Software Developer | Kotlin Multiplatform & AI Automation Specialist
 
 I am a versatile developer focused on building high-performance solutions for web and mobile. My unique approach involves high-efficiency development directly from mobile environments (Termux/Acode), proving that logic and discipline have no limits.
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently leading **EG Multiplatform** - Development, Automation & Consulting.
+- 🔭 Founder of **EG Multiplatform** - Development, Automation & Consulting.
 - 📱 Specialist in **Kotlin Multiplatform (KMP)** and **Jetpack Compose**.
 - 🤖 Expert in **AI Automation** workflows using **n8n** and **Firebase**.
 - 📍 Based in Atlanta, GA (Moving soon to Guanare, VEN) - Working for the global market.
@@ -15,7 +15,7 @@ I am a versatile developer focused on building high-performance solutions for we
 
 ### 🛠 Tech Stack & Tools
 - **Languages:** Kotlin, Java, JavaScript, SQL (SQLite), HTML5/CSS3.
-- **Mobile:** Jetpack Compose, Compose Multiplatform, Android SDK.
+- **Mobile Development:** Jetpack Compose, Compose Multiplatform, Android SDK.
 - **Automation:** n8n, AI Prompt Engineering, Firebase Cloud Functions.
 - **Environment:** Termux (Linux), Acode, Git/GitHub, Firebase.
 
